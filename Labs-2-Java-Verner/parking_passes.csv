@@ -1,0 +1,4 @@
+passNumber,firstName,secondName,age,phone,brand,model,licensePlate,isActive
+P001,Иван,Медведев,19,null,Toyota,Camry,А123ВС77,true
+P002,Илья,Вернер,19,+7-919-077-43-00,BMW,X5,У456НК77,false
+P003,Анна,Сидорова,20,+7-888-765-43-21,Lada,Vesta,О789МР77,true
